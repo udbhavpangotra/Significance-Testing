@@ -39,4 +39,4 @@ Note: In case of a pre-test evaluation, we will have the first two only along wi
 	
 Note: In case of a pre-test evaluation we will have the data for A only and another variable uplift, that can be modified as per user preference. Also, the data can be entered for a total of 7 days only.
 
-7. The final output generated will be displayed on the application screen as output and also in a .png file in the same folder.
+8. The final output generated will be displayed on the application screen as output and also in a .png file in the same folder.
