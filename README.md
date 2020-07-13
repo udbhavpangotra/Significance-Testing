@@ -21,14 +21,14 @@ Steps and Instructions:
 5. You can enter the data while using the application or on a separate excel sheet provided named Samplez.xlsx
 6. The data that is to be entered for chi square test is as follow:
 
-     The visitors for the Test A
-     The visitors for the Test B
-     The conversions for the Test A		
-     The conversions for the Test B
+     	The visitors for the Test A
+     	The visitors for the Test B
+     	The conversions for the Test A		
+     	The conversions for the Test B
      
 Note: In case of a pre-test evaluation, we will have the first two only along with a variable Uplift.
 	
-     The data for the Z-test will be as follow:
+7. The data for the Z-test will be as follow:
 
       The daily traffic on A
       The daily time spent on A
